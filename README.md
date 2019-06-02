@@ -8,22 +8,13 @@
 * <a target="_blank" href="https://www.indiegogo.com/projects/useless-nixie-device">Useless Nixie Device</a>
 
 
-
-<table width="100%" border="0" align="center" valign="middle">
-    <tr style="background-color:#666;">
-        <th width="308px" height="125px" align="center" valign="middle" scope="col">
-            <h1 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></th>
-        <th height="125px" width="573px" align="center" valign="middle" scope="col">
-            <h1 style="text-align: center;"><font color="white">SUPPORTED TUBES</font></h2></th>
-    </tr>
-</table>
 <table width="100%">
     <tr height="0px">
-        <th width="10px" height="62px" scope="col"> </th>
-        <th width="125px" height="62px" scope="col"> Thumbnail</th>
-        <th width="125px" height="62px" scope="col"> Number</th>
-        <th width="425px" height="62px" scope="col"> List</th>
-        <th width="10px" height="62px" scope="col"> </th>
+        <th width="1%" scope="col"> </th>
+        <th width="20%" scope="col"><h2 style="text-align: center;"><font color="white">Thumbnail</font></h2></th>
+        <th width="20%" scope="col"><h2 style="text-align: center;"><font color="white">Number</font></h2></th>
+        <th width="58%" scope="col"><h2 style="text-align: center;"><font color="white">Supported Tubes</font></h2></th>
+        <th width="1%"  scope="col"> </th>
     </tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
