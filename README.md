@@ -1,10 +1,10 @@
 # Universal-PRO-Nixie-Tester-and-Healer
 
 <table width="100%" border="0" align="center" valign="middle">
-    <tr style="background-color:#008c9e;">
-        <th width="304px" height="125px" align="center" valign="middle" scope="col">
+    <tr style="background-color:#666;">
+        <th width="306px" height="125px" align="center" valign="middle" scope="col">
             <h2 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></th>
-        <th height="125px" width="577px" align="center" valign="middle" scope="col">
+        <th height="125px" width="575px" align="center" valign="middle" scope="col">
             <h2 style="text-align: center;"><font color="white">COMPATIBLE TUBE</font></h2></th>
     </tr>
 </table>
