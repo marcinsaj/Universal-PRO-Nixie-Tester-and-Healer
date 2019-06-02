@@ -2,10 +2,10 @@
 
 <table width="100%" border="0" align="center" valign="middle">
     <tr style="background-color:#666;">
-        <th width="306px" height="125px" align="center" valign="middle" scope="col">
-            <h2 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></th>
-        <th height="125px" width="575px" align="center" valign="middle" scope="col">
-            <h2 style="text-align: center;"><font color="white">COMPATIBLE TUBE</font></h2></th>
+        <th width="307px" height="125px" align="center" valign="middle" scope="col">
+            <h1 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></th>
+        <th height="125px" width="574px" align="center" valign="middle" scope="col">
+            <h1 style="text-align: center;"><font color="white">COMPATIBLE TUBE</font></h2></th>
     </tr>
 </table>
 <table width="100%">
