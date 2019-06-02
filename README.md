@@ -1,24 +1,31 @@
 # Universal-PRO-Nixie-Tester-and-Healer
 
 <table width="100%" border="0" align="center" valign="middle">
-    <tr>
-        <td width="304px" height="125px" align="center" valign="middle" style="background-color:#008c9e;" scope="col">
-            <h2 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></td>
-        <td height="125px" width="577px" align="center" valign="middle" scope="col" style="background-color:#12a8c2;">
-            <h2 style="text-align: center;"><font color="white">COMPATIBLE TUBE</font></h2></td>
+    <tr style="background-color:#008c9e;">
+        <th width="304px" height="125px" align="center" valign="middle" scope="col">
+            <h2 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></th>
+        <th height="125px" width="577px" align="center" valign="middle" scope="col">
+            <h2 style="text-align: center;"><font color="white">COMPATIBLE TUBE</font></h2></th>
     </tr>
 </table>
 <table width="100%">
+    <tr>
+        <th width="10px" scope="col"> </th>
+        <th width="125px" scope="col"> </th>
+        <th width="125px" scope="col"> </th>
+        <th width="425px" scope="col"> </th>
+        <th width="10px" scope="col"> </th>
+    </tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
-        <td width="10px" scope="col"> </td>
-        <td align="center" valign="middle" width="125px" scope="col"><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400575/xmfjmbleqdfsncbsccao.jpg" /></td>
-        <td width="125px" scope="col">
+        <td> </td>
+        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400575/xmfjmbleqdfsncbsccao.jpg" /></td>
+        <td>
             <h3>NO.1</h3></td>
-        <td width="425px" scope="col"><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN12AV/">IN12A</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN12B/">IN12B</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN15A/">IN15A</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN15B/">IN15B</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1162/">ZM1162</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1180SIEMENS/">ZM1180</a>,
+        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN12AV/">IN12A</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN12B/">IN12B</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN15A/">IN15A</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN15B/">IN15B</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1162/">ZM1162</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1180SIEMENS/">ZM1180</a>,
             <br /><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/ZM1181/zm1181.htm">ZM1181</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1180SIEMENS/">ZM1182</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/ZM1183/zm1183.htm">ZM1183</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1185A/">ZM1185A</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_zm1185b.htm?lang=en">ZM1185B</a>,
             <br /><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_zm1185d.htm?lang=en">ZM1185D</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_zm1185e.htm?lang=en">ZM1185E</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1185F/">ZM1185F</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1186SIEMENS/">ZM1186</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/zm1188.htm">ZM1188</a>,&nbsp;
             <br /><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_zm1185a.htm?lang=en">GR1420</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_zm1184d.htm?lang=en">GR1430</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_f9152a.htm?lang=en">F9152A</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/CD43/">CD43</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/CD56/">CD56</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b59956.htm?lang=en">B59956</a></td>
-        <td width="10px" scope="col"> </td>
+        <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
